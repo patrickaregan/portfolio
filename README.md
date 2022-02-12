@@ -17,7 +17,7 @@ of the content but for smaller screens I changed the flex-direction property to 
 
 
 ## Link
-[https://patrickaregan.github.io/challenge-02/](https://patrickaregan.github.io/challenge-02/)
+[https://patrickaregan.github.io/portfolio/](https://patrickaregan.github.io/portfolio/)
 
 ## Credits
 
