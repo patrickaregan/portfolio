@@ -193,6 +193,16 @@ section article p {
     width: 315px;
 }
 
+.code-quiz-app {
+    background-image: url("../images/code-quiz.png");
+    background-size: cover;
+    border: 4px solid;
+    border-color:#92cccd;
+    height: 147px;
+    margin: 10px 21px 10px 0;
+    width: 315px;
+}
+
 .secondary-app {
     background-color: gray;
     border: 4px solid;
