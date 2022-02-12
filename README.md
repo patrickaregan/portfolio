@@ -1,4 +1,5 @@
-# patrickaregan.github.io/challenge-02/
+# patrickaregan.github.io/portfolio/
+- My Portfolio
 
 ## Description
 - This project is my portfolio website. It tells the reader a little bit about me,
