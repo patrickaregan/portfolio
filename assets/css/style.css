@@ -233,6 +233,56 @@ section article p {
     width: 315px;
 }
 
+.note-taker-app {
+    background-image: url("../images/note-taker.png");
+    background-size: cover;
+    border: 4px solid;
+    border-color:#92cccd;
+    height: 147px;
+    margin: 10px 21px 10px 0;
+    width: 315px;
+}
+
+.employee-tracker-app {
+    background-image: url("../images/employee-tracker.png");
+    background-size: cover;
+    border: 4px solid;
+    border-color:#92cccd;
+    height: 147px;
+    margin: 10px 21px 10px 0;
+    width: 315px;
+}
+
+.fantastic-outlet-app {
+    background-image: url("../images/fantastic-outlet.png");
+    background-size: cover;
+    border: 4px solid;
+    border-color:#92cccd;
+    height: 147px;
+    margin: 10px 21px 10px 0;
+    width: 315px;
+}
+
+.tech-blog-app {
+    background-image: url("../images/tech-blog.png");
+    background-size: cover;
+    border: 4px solid;
+    border-color:#92cccd;
+    height: 147px;
+    margin: 10px 21px 10px 0;
+    width: 315px;
+}
+
+.home-buddy-app {
+    background-image: url("../images/home-buddy.png");
+    background-size: cover;
+    border: 4px solid;
+    border-color:#92cccd;
+    height: 147px;
+    margin: 10px 21px 10px 0;
+    width: 315px;
+}
+
 .secondary-app {
     background-color: gray;
     border: 4px solid;
