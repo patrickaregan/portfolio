@@ -97,7 +97,7 @@ header nav ul li a:hover {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 14px;
     font-style: italic;
-    padding: 10px;
+    padding: 10px 10px;
     text-align: center;
 }
 
@@ -106,7 +106,7 @@ header nav ul li a:hover {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 14px;
     font-weight: bold;
-    justify-content: right;
+    justify-content: center;
     padding: 10px;
 }
 /* end Hero */
