@@ -122,43 +122,43 @@ input, textarea {
 }
 
 .tech-blog {
-    background-image: url("./assets/images/tech-blog.png");
+    background-image: url("#");
     background-size: cover;
     height: 170px;
 }
 
 .note-taker {
-    background-image: url("./assets/images/note-taker.png");
+    background-image: url("#");
     background-size: cover;
     height: 170px;
 }
 
 .code-quiz {
-    background-image: url("./assets/images/code-quiz.png");
+    background-image: url("#");
     background-size: cover;
     height: 170px;
 }
 
 .workday-scheduler {
-    background-image: url("./assets/images/workday-scheduler.png");
+    background-image: url("#");
     background-size: cover;
     height: 170px;
 }
 
 .password-generator {
-    background-image: url("./assets/images/password-generator.png");
+    background-image: url("#");
     background-size: cover;
     height: 170px;
 }
 
 .run-buddy {
-    background-image: url("./assets/images/runbuddy.png");
+    background-image: url("#");
     background-size: cover;
     height: 170px;
 }
 
 .story-team {
-    background-image: url("./assets/images/story-team.png");
+    background-image: url("#");
     background-size: cover;
     height: 170px;
 }
