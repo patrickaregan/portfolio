@@ -1,0 +1,172 @@
+
+#name-header {
+    border-radius: 5px;
+}
+
+.nav-option {
+    border-radius: 5px;
+}
+
+.nav-current {
+    background-color: var(--dark);
+    border-radius: 5px;
+    color: var(--secondary);
+}
+
+#about-header, #portfolio-header, #contact-header,#resume-header {
+    border-radius: 5px;
+    padding-left: 20px;
+    width: 100%;
+}
+
+.about-container {
+    margin: 10px 0;
+}
+
+#about-image {
+    border-radius: 5px;
+    border: 1px solid;
+    float: left;
+    padding: 0px 0 0 0;
+    margin: 5px 20px 0 0;
+}
+
+form {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+label, button, select {
+    font-family: inherit;
+    margin: 0;
+    padding: 10px;
+}
+
+input, textarea {
+    border-radius: 5px;
+    border: 1px solid var(--primary);
+    font-family: inherit;
+    margin: 2px;
+    padding: 10px;
+    width: 300px;
+}
+
+.error-message {
+    color: red;
+}
+
+/* Footer */
+#gitHub-profile-image {
+    height: 35px;
+    width: 76px;
+    object-fit: cover;
+}
+
+#gitHub-octocat-image {
+    height: 39px;
+    width: 39px;
+    object-fit: cover;
+}
+
+.gitHub-spacer {
+    margin: 7px;
+}
+
+#linkedIn-profile-image {
+    height: 30px;
+    margin-bottom: 3px;
+}
+
+.linkedIn-spacer {
+    margin: 5px;
+}
+
+#stackOverflow-profile-image {
+    height: 50px;
+    margin-bottom: 2px;
+}
+
+/* Portfolio */
+.portfolio-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 5px;
+    padding: 5px;
+}
+
+.project-container {
+    border: 1px solid var(--dark);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin: 10px 5px;
+    padding: 0px;
+    width: 495px;
+}
+
+.project-info {
+    background-color: var(--dark);
+    color: white;
+    font-size: 16px;
+    padding: 10px;
+}
+
+.project-info a {
+    color: white;
+    text-decoration: none;
+}
+
+.project-info a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.tech-blog {
+    background-image: url("./assets/images/tech-blog.png");
+    background-size: cover;
+    height: 170px;
+}
+
+.note-taker {
+    background-image: url("./assets/images/note-taker.png");
+    background-size: cover;
+    height: 170px;
+}
+
+.code-quiz {
+    background-image: url("./assets/images/code-quiz.png");
+    background-size: cover;
+    height: 170px;
+}
+
+.workday-scheduler {
+    background-image: url("./assets/images/workday-scheduler.png");
+    background-size: cover;
+    height: 170px;
+}
+
+.password-generator {
+    background-image: url("./assets/images/password-generator.png");
+    background-size: cover;
+    height: 170px;
+}
+
+.run-buddy {
+    background-image: url("./assets/images/runbuddy.png");
+    background-size: cover;
+    height: 170px;
+}
+
+.story-team {
+    background-image: url("./assets/images/story-team.png");
+    background-size: cover;
+    height: 170px;
+}
+
+/* Resume */
+.resume-container {
+    margin: 5px;
+    padding: 5px;
+}
+
+
